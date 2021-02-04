@@ -7,3 +7,4 @@ From: 1 February 2021
 
     Monday = 30minute done 
     Wednesday(Afternoon) = 1hour done.
+    Thursday(Morning) = 1.30hour done.
